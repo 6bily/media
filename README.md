@@ -4,8 +4,7 @@ lp:
 3) javascript
    
 structer:
-index.html) index
-assests) all assests here
+simple
 
 date:
 2024
